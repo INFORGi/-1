@@ -1,0 +1,42 @@
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\bin\Debug\WpfApp1.exe
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window1.g.cs
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\App.g.cs
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\MainWindow.baml
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window1.baml
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.exe
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window2.g.cs
+D:\3 курс\ИСРПО\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window2.baml
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\App.g.cs
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window1.baml
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window2.baml
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window3.g.cs
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window3.baml
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window4.g.cs
+C:\Users\shulg\OneDrive\Desktop\РЕКЛАМНОЕ АГЕНТСТВО\WpfApp1\obj\Debug\Window4.baml

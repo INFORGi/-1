@@ -1,0 +1,64 @@
+﻿<Window x:Class="WpfApp1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Заявка" Height="450" Width="800" Background="#C5D0E6" WindowStartupLocation="CenterScreen" FontSize="10">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <ComboBox x:Name="cb1" Grid.Column="1" Grid.ColumnSpan="3" SelectionChanged="cb1_SelectionChanged" Margin="61,31,0,0" Grid.RowSpan="2"/>
+        <ComboBox x:Name="cb2" Grid.Column="1" Grid.Row="2" Grid.ColumnSpan="3" SelectionChanged="cb2_SelectionChanged" Margin="61,31,0,0" Grid.RowSpan="2"/>
+
+        <Label Grid.ColumnSpan="2" Content="Наименование" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,0,0" Grid.RowSpan="2"/>
+        <Label Grid.Row="2" Grid.ColumnSpan="2" Content="№ заявки" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,0,0" Grid.RowSpan="2"/>
+        <Label Grid.Row="4" Grid.ColumnSpan="2" Content="Вид рекламы" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,0,0" Grid.RowSpan="2"/>
+        <ListBox Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="3" x:Name="lb3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="61,2,0,28" Grid.RowSpan="3"/>
+        <TextBox Grid.Row="8" Grid.Column="1" Grid.ColumnSpan="3" x:Name="tx4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="61,2,0,1"/>
+        <Label Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2" Content="Объем" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,2,0,1"/>
+        <Label Grid.Row="10" Grid.Column="0" Grid.ColumnSpan="2" Content="Издание" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,1,0,1" Grid.RowSpan="2"/>
+        <Label Grid.Row="10" Grid.Column="1" Grid.ColumnSpan="3" x:Name="lb4" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="61,1,0,1" Grid.RowSpan="2"/>
+        <Label Grid.Row="13" Grid.Column="0" Grid.ColumnSpan="2" Content="Кол-во вых. рекламы" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,1,0,1"/>
+        <TextBox Grid.Row="13" Grid.Column="1" Grid.ColumnSpan="3" x:Name="tx5" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="61,1,0,1"/>
+        <Label Grid.Column="7" Content="Доп. инф." Grid.ColumnSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,61,0" Grid.RowSpan="2"/>
+        <Label Grid.Row="2" Grid.Column="7" Content="Дата исполнения" Grid.ColumnSpan="3" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,61,0" Grid.RowSpan="2"/>
+        <TextBox Grid.Column="9" Grid.ColumnSpan="3" x:Name="tx6" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,0,0" Grid.RowSpan="2"/>
+        <TextBox Grid.Row="2" Grid.Column="9" Grid.ColumnSpan="3" x:Name="tx7" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Margin="0,31,0,0" Grid.RowSpan="2"/>
+
+        <Button Click="dsd" Grid.Column="9" Grid.ColumnSpan="3" Grid.Row="10" Content="Заполнить заяввку" Background="#003153" Foreground="#A2A2D0" Margin="0,31,0,0" Grid.RowSpan="2"/>
+        <Button Click="dsdв" Grid.Column="9" Grid.ColumnSpan="3" Grid.Row="12" Content="Назад на гл. форму" Background="#003153" Foreground="#A2A2D0" Margin="0,31,0,0" Grid.RowSpan="2"/>
+    </Grid>
+</Window>
